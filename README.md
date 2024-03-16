@@ -6,7 +6,9 @@ The goal of this assignment is to implement a simple interface that interacts wi
 
 ## Deployment
 
-The application is deployed on Google Cloud Run and can be accessed at the following URL: [Link to your application](https://my-streamlit-app-sxemxtbyeq-oa.a.run.app)
+The application is deployed on Google Cloud Run and can be accessed at the following URL: [Link to my application](https://my-streamlit-app-sxemxtbyeq-oa.a.run.app)
+
+![Movie Search App](https://imgur.com/FvwQ5IX)
 
 ## Features
 
