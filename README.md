@@ -4,6 +4,10 @@
 
 The goal of this assignment is to implement a simple interface that interacts with a BigQuery cloud database. The application runs on Google Cloud and allows querying a movie database with various search functionalities.
 
+## Deployment
+
+The application is deployed on Google Cloud Run and can be accessed at the following URL: [Link to your application](https://my-streamlit-app-sxemxtbyeq-oa.a.run.app)
+
 ## Features
 
 The web application enables:
@@ -20,9 +24,6 @@ The web application enables:
 - **Google Cloud**: For hosting the containerized application.
 - **Streamlit**: For creating the user interface.
 
-## Deployment
-
-The application is deployed on Google Cloud Run and can be accessed at the following URL: [Link to your application](https://my-streamlit-app-sxemxtbyeq-oa.a.run.app)
 
 ## Getting Started
 
