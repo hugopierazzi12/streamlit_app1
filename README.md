@@ -16,7 +16,7 @@ The web application enables:
 
 - Autocomplete functionality to help explore movie titles based on typed input.
 - Filters by language, movie genre, average rating, and release year.
-- Displaying search results with additional details if a movie is selected, including the movie's cover and more information such as an overview and the cast, utilizing OpenMovieDatabase or The Movie Database.
+- Displaying search results with additional details if a movie is selected, including the movie's cover and more information such as an overview and the cast, utilizing The Movie Database.
 
 ## Technologies Used
 
