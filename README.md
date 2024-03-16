@@ -26,9 +26,3 @@ The web application enables:
 - **Google Cloud**: For hosting the containerized application.
 - **Streamlit**: For creating the user interface.
 
-
-## Getting Started
-
-To run the application locally, follow these steps:
-
-1. Clone the repository:
